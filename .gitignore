@@ -1,0 +1,9 @@
+build/
+
+/.vscode
+/.devcontainer
+*.ci
+*.ci.rtc
+*.defaults
+sdkconfig.bak
+sdkconfig.old
